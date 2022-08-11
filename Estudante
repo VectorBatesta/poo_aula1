@@ -1,0 +1,11 @@
+package aula1;
+
+/**
+ *
+ * @author a2104679
+ */
+public class Estudante {
+    
+    String nome = "batita";
+    
+}
